@@ -1,3 +1,4 @@
 A : hallo
 M : hai
 A : apa kabar
+M : baik
